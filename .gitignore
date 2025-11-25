@@ -1,0 +1,57 @@
+# ------------------------------
+# Visual Studio / C++ / SFML
+# ------------------------------
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.ncb
+*.opensdf
+*.sdf
+*.ipch
+
+# Build results
+Debug/
+Release/
+x64/
+*.obj
+*.o
+*.pch
+*.ilk
+*.pdb
+*.idb
+
+# Executables
+*.exe
+*.dll
+*.so
+*.lib
+*.a
+*.app
+
+# Logs
+*.log
+*.tlog
+
+# SFML / TGUI / images
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.tga
+*.gif
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
